@@ -1,2 +1,2 @@
 # Social-links
-This is a project from frontend mentor this is my secnd challenge to strong my frontend. i am a beeginner to this so this is just a practice poject for me 
+This is a project from frontend mentor, it's my 2nd challenge to strong my frontend Development. I am a beginner to this so this is just a practice poject for me .
